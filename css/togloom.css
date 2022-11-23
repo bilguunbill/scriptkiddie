@@ -1,0 +1,18 @@
+*{
+   margin: 0;
+   padding: 0;
+}
+body{
+    min-height: 100vh;
+    background-color: aqua;
+}
+#t1{
+    border: 1px solid black;
+}
+#h5{
+    margin: 5px;
+    border: 1px solid black;
+}
+#ok{
+    margin: 5px;
+}

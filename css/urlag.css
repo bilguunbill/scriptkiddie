@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    min-height: 100vh;
+    background-color: aqua;
+}
+#duu{
+    border: 1px solid black;
+    padding: 40px;
+}
+#yrool{
+    margin: 20px;
+    border: 1px solid black;
+    padding: 40px;
+}
+#bujig{
+    margin: 20px;
+    border: 1px solid black;
+    padding: 40px;
+}

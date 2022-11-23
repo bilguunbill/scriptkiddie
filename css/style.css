@@ -1,0 +1,70 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#home{ 
+    /* home nertei idgiin style iig tohiruulj ogson hesg*/
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-image: url("/html/img/lol.jpg");
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+#tailbar{
+   background-image: url(/html/img/lol.jpg);
+   min-height: 100vh;
+}
+#tailbar2{
+    background-image: url(/html/img/lol.jpg);
+    min-height: 100vh;
+}
+.a2{
+    /* a class dahi list uudin haragdah baidal style uud.*/
+    flex-direction: column;
+    position: absolute;
+    align-items: flex-start;
+    transition: all 0.5s ease;
+    width: 25rem;
+    right: 7rem;
+    top: 6.5rem;
+    padding: 0rem 0.1rem;
+    visibility: visible;
+}
+.a1{
+    /*a class iig idvehgu uyd nuuj baigaa uildel*/
+    display: none;
+}
+li{
+    /*
+     list elementiin style hesg.
+    */
+    list-style: none;
+    padding: 10px;
+    background-color: rgb(80, 110, 110);
+    margin: 10px;
+    border-radius: 2px;
+    color: aliceblue;
+    border: 1px solid black;
+}
+li:hover{ /*list elementiin hover buyu mouse ocih uyd oorchlogdoh hesg*/
+    background-color: aqua;
+}
+#tovch{
+    /*tovch buyu button giin padding zaasan hesg bn*/
+    padding: 10px 40px 10px 40px;
+  
+}
+a{
+    /*a elementiin dooguur zuraasig arilgasan uildel*/
+    text-decoration: none;
+}
+#tailbar p{
+    border: 1px solid black;
+    margin: 20px;
+    color: aliceblue;
+    padding: 40px;
+}
+#tailbar h1{
+    color: aliceblue;
+}

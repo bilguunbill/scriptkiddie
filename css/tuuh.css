@@ -1,0 +1,45 @@
+body{
+    background-color: rgb(241, 238, 238);
+}
+#ehlel{
+    border: 2px solid rgb(110, 93, 93);
+    padding: 40px;
+    border-radius: 5px;
+}
+#ehlel h1{
+    text-align: center;
+}
+#hesg_2 button{
+    padding: 10px;
+    width: 24.5%;
+}
+.blr1{
+    visibility: visible;
+}
+.blr{
+    /*a class iig idvehgu uyd nuuj baigaa uildel*/
+    display: none;
+}
+.ert1{
+    visibility: visible;
+}
+.ert{
+    display: none;
+}
+li{
+    list-style: none;
+    padding: 10px;
+    border: 1px solid black;
+}
+.dund{
+    display: none;
+}
+.dund1{
+    visibility: visible;
+}
+.orch{
+    display: none;
+}
+.orch1{
+    visibility: visible;
+}
